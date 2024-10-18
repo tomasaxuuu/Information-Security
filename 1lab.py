@@ -11,7 +11,7 @@ random_sequence = []
 # Создание основного окна
 root = tk.Tk()
 root.title("Генератор случайных последовательностей")
-root.geometry("800x600")
+root.geometry("1200x800")
 
 sequence_length_var = tk.StringVar()
 a_var = tk.StringVar()
